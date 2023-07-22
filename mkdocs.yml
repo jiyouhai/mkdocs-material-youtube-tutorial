@@ -1,5 +1,9 @@
-site_name: MkDocs YouTube Tutorial
-site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+site_name: 天津大学数学学院本科生指北
+site_url: https://jiyouhai.github.io/tjumathguide/
+site_author: jiyouhai
+site_description: 天津大学数学学院本科生指北
+repo_name: tjumathguide
+repo_url: https://github.com/jiyouhai/tjumathguide/
 theme:
   name: material
   features:
@@ -12,33 +16,33 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - navigation.footer
   language: zh
   palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: teal
-      accent: purple 
-    - scheme: slate 
+      accent: purple
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: teal
       accent: lime
-
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 plugins:
   - social
-
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
+      link: https://github.com/jiyouhai
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/TheJamesWillett
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
-
+      link: https://www.linkedin.com/in/zhouyixiaoxiao/
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -55,6 +59,5 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
 copyright: |
-  &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
+  &copy; 2023 <a href="https://github.com/jiyouhai"  target="_blank" rel="noopener">jiyouhai</a>
