@@ -1,9 +1,9 @@
 site_name: 天津大学数学学院本科生指北
-site_url: https://jiyouhai.github.io/tjumathguide/
+site_url: https://jiyouhai.github.io/tju-math-guide/
 site_author: jiyouhai
 site_description: 天津大学数学学院本科生指北
 repo_name: tjumathguide
-repo_url: https://github.com/jiyouhai/tjumathguide/
+repo_url: https://github.com/jiyouhai/tju-math-guide/
 theme:
   name: material
   features:
