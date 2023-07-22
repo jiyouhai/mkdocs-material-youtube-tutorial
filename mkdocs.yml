@@ -40,6 +40,9 @@ plugins:
 plugins:
   - search
 extra:
+  analytics:
+    provider: google
+    property: G-DYRB5HD31Q
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/jiyouhai
