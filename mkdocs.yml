@@ -48,6 +48,8 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/zhouyixiaoxiao/
 markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -65,3 +67,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 copyright: |
   &copy; 2023 <a href="https://github.com/jiyouhai"  target="_blank" rel="noopener">jiyouhai</a>
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
