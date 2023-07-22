@@ -17,6 +17,8 @@ theme:
     - content.code.annotation
     - content.code.copy
     - navigation.footer
+    - search.suggest
+    - search.highlight
   language: zh
   palette:
     - media: "(prefers-color-scheme: light)"
