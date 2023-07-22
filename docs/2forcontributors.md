@@ -61,11 +61,15 @@ $$\frac{\sin{x}}{x^{3}}$$
 MSE（[mathstackexchange.com](https://mathstackexchange.com)）是一个数学问答平台，很多题目你能在上面找到答案，你也可以用Latex提问，很多能人会帮你答疑。
 
 
-### Markdown 简介
+## Markdown 简介
 
 大家以后需要用Markdown编辑内容。
 
 可以阅读[了不起的Markdown](https://jiyouhai.github.io/my-math-notes/PDFs/了不起的Markdown.pdf)来了解。语法很简单啦，你看我写的这些。
+
+## 更新pdf
+
+我创建了新的网站，但pdf文件都还在原来的仓库，我也懒得挪了，大家去看原来的[仓库](https://github.com/jiyouhai/my-math-notes)吧哈哈哈。
 
 ## 用python解决遇到的问题
 我在资料的收集整理时遇到了许多问题，在这里跟大家分享经历和解决方法。由于我用的是MacOS，所以可能有些许不使用某些情况的地方，大家稍加改正也可以用。
