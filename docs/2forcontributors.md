@@ -67,9 +67,11 @@ MSE（[mathstackexchange.com](https://mathstackexchange.com)）是一个数学�
 
 可以阅读[了不起的Markdown](https://jiyouhai.github.io/my-math-notes/PDFs/了不起的Markdown.pdf)来了解。语法很简单啦，你看我写的这些。
 
-## 更新pdf
+## 更新pdf和zlib
 
 我创建了新的网站，但pdf文件都还在原来的仓库，我也懒得挪了，大家去看原来的[仓库](https://github.com/jiyouhai/my-math-notes)吧哈哈哈。
+
+另外，zlib是找电子书最重要的途径之一，大家一定得会。谷歌上搜索即可。搜索zlib。
 
 ## 用python解决遇到的问题
 我在资料的收集整理时遇到了许多问题，在这里跟大家分享经历和解决方法。由于我用的是MacOS，所以可能有些许不使用某些情况的地方，大家稍加改正也可以用。
@@ -197,6 +199,34 @@ for file in *.HEIC; do convert "$file" "jpegs/$(basename "$file" .HEIC).jpg"; do
 
 之后用python代码将jpg格式的图片合并成一个pdf
 
+```py
+import os
+import re  # <- Add this line
+from PIL import Image
+import glob
+
+def atoi(text):
+    return int(text) if text.isdigit() else text
+
+def natural_keys(text):
+    '''
+    alist.sort(key=natural_keys) sorts in human order
+    http://nedbatchelder.com/blog/200712/human_sorting.html
+    '''
+    return [ atoi(c) for c in re.split(r'(\d+)', text) ]
+
+jpeg_folder = '/Users/jiyouhai/Desktop/未命名文件夹/'
+jpeg_files = glob.glob(jpeg_folder + '*.jpeg')
+jpeg_files.sort(key=natural_keys)  # Use natural_keys function for sorting
+
+img_list = []
+for filename in jpeg_files:
+    img_list.append(Image.open(filename))
+
+img_list[0].save("/Users/jiyouhai/Desktop/answer5.pdf", "PDF" ,resolution=100.0, save_all=True, append_images=img_list[1:])
+
+```
+
 ### 合并pdf
 
 有时候会遇到多个pdf的情况，下面这个python脚本提取出数字然后以数字从小到大合并pdf
@@ -247,33 +277,6 @@ print("合并完成！")
 
 
 
-```py
-import os
-import re  # <- Add this line
-from PIL import Image
-import glob
-
-def atoi(text):
-    return int(text) if text.isdigit() else text
-
-def natural_keys(text):
-    '''
-    alist.sort(key=natural_keys) sorts in human order
-    http://nedbatchelder.com/blog/200712/human_sorting.html
-    '''
-    return [ atoi(c) for c in re.split(r'(\d+)', text) ]
-
-jpeg_folder = '/Users/ji you hai/Desktop/未命名文件夹/'
-jpeg_files = glob.glob(jpeg_folder + '*.jpeg')
-jpeg_files.sort(key=natural_keys)  # Use natural_keys function for sorting
-
-img_list = []
-for filename in jpeg_files:
-    img_list.append(Image.open(filename))
-
-img_list[0].save("/Users/jiyouhai/Desktop/answer5.pdf", "PDF" ,resolution=100.0, save_all=True, append_images=img_list[1:])
-
-```
 
 ### 裁剪pdf
 
