@@ -39,7 +39,6 @@ plugins:
   - social
 plugins:
   - search
-      lang: zh
 extra:
   social:
     - icon: fontawesome/brands/github-alt
