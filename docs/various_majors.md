@@ -1,3 +1,9 @@
+---
+title: Professinal Courses
+description: You may need them 
+---
+
+
 # 各专业专业课程
 
 ## 金融数学
