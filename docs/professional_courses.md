@@ -1,7 +1,4 @@
----
-title: Professinal Courses
-description: You may need them 
----
+
 
 
 # 数学类专业课程
