@@ -1,7 +1,7 @@
-site_name: TJU Math Guide
+site_name: 天津大学数学学院本科生指北
 site_url: https://jiyouhai.github.io/tju-math-guide/
 site_author: jiyouhai
-site_description: 天津大学数学学院本科生指北
+site_description: 一些关于天大，关于数学的信息和资料，你可能需要会需要他们
 repo_name: tju-math-guide
 repo_url: https://github.com/jiyouhai/tju-math-guide/
 theme:
