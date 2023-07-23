@@ -93,7 +93,7 @@ https://cdn.jsdelivr.net/gh/jiyouhai/tju-math-guide/pdfs/文件名
 
 用以下代码
 
-```py
+``` py linenums="1"
 import os
 import tempfile
 from fpdf import FPDF
@@ -145,7 +145,7 @@ pdf_to_image_pdf(pdf_path, output_pdf_path)
 
 我是用python来压缩pdf，代码如下：
 
-```py
+``` py linenums="1"
 import os
 import fitz
 from PIL import Image
@@ -201,7 +201,7 @@ for file in *.HEIC; do convert "$file" "jpegs/$(basename "$file" .HEIC).jpg"; do
 
 之后用python代码将jpg格式的图片合并成一个pdf
 
-```py
+``` py linenums="1"
 import os
 import re  # <- Add this line
 from PIL import Image
@@ -233,7 +233,7 @@ img_list[0].save("/Users/jiyouhai/Desktop/answer5.pdf", "PDF" ,resolution=100.0,
 
 有时候会遇到多个pdf的情况，下面这个python脚本提取出数字然后以数字从小到大合并pdf
 
-```py
+``` py linenums="1"
 from PyPDF2 import PdfMerger
 import os
 import re
@@ -285,7 +285,7 @@ print("合并完成！")
 孙笑涛抽象代数这本书是我手动扫描的，但是最初的版本是上下都是空白，只用中间有扫描出来的图片。所以我利用python代码先提取了图片的格式，然后将空白部分剪裁掉。
 
 提取格式的代码：
-```py
+``` py linenums="1"
 import fitz
 import io
 from PIL import Image
@@ -317,7 +317,7 @@ print(img_obj.mode)
 
 提取完成之后剪裁：
 
-```py
+``` py linenums="1"
 import fitz
 import io
 import numpy as np
@@ -390,7 +390,7 @@ crop_pdf(input_file_path, output_file_path)
 
 有时候你会遇到需要把很多很多个word文档转化pdf的情况，以下脚本需要保证你的电脑安装的有word。当然如果你需要转换完之后合并pdf，参考前面。
 
-```py
+``` py linenums="1"
 from docx2pdf import convert
 import os
 
@@ -415,7 +415,7 @@ print("转换完成！")
 ### 网页提取pdf
 有时候还会遇到在网页上提取pdf的情况，所以说下面的脚本能将网页中所有图片提取出来然后合并成一个pdf文档发送到你的邮箱。
 
-```py
+``` py linenums="1"
 
 import requests
 from bs4 import BeautifulSoup
