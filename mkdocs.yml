@@ -19,6 +19,7 @@ theme:
     - navigation.footer
     - search.suggest
     - search.highlight
+    - content.action.view
   language: zh
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -71,3 +72,12 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+nav:
+    - 前言: 'foreword.md'
+    - 贡献者说: 'forcontributors.md'
+    - 数学类专业课程: 'professional_courses.md'
+    - 各专业专业课程: 'various_majors.md'
+    - 未来可能的答案:
+        # - 未来可能的答案/index.md
+        - 抽象代数: '未来可能的答案/abstractalgebra.md'
+        - 数学分析: '未来可能的答案/mathmaticalanalysis.md'
