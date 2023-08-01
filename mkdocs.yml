@@ -20,6 +20,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.action.view
+    - content.tabs.link
   language: zh
   palette:
     - media: "(prefers-color-scheme: light)"
