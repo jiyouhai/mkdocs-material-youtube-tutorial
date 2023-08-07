@@ -134,3 +134,10 @@
 
 3. 更多使用说明，请参考[帮助手册](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/天大云盘操作手册.pdf)（可将下文链接复制到浏览器打开或下载）。
 
+## 与本站类似的网站或手册
+
+[南方科技大学飞跃手册](https://sustech-application.com/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c)中有南科大很多各系学长学姐之后升学和就业道路的真实故事。
+
+[上海交通大学生存手册](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/上海交通大学生存手册.pdf)是很古老的一本手册，里面有一些对于大学“真实”的看法。
+
+[USTC基础数学修课指南](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/USTC基础数学修课指南.pdf)是几年前中国科学技术大学有关数学系该如何选择教材等的指南。
