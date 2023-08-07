@@ -59,6 +59,8 @@ Latex是一种编程语言，主要用来输出数学公式也可以用来画一
 
 Latex安装流程你可以查阅下面内容或者[Latex下载教程](https://flowus.cn/share/66110e84-b24a-4cd5-b8a7-2ba2afb35a30)
 
+除了下面Latex基础之外，现在我越发觉得IDE十分重要，它是帮助我们写代码的软件应用，也就是一个界面。比如常见的有VS Code。我建议你完成基本的下载后，按照[LatexIDE配置](https://mp.weixin.qq.com/s/ZK49GP-UY2AbhNP9aabsrQ)，配置一遍。完成之后，只要你保存代码，自动能看到输出的PDF，会特别方便。
+
 如果你是Mac用户：
 
 1. 第一步，我们要安装一个叫做MacTeX的LaTeX发行版。访问[MacTex](http://www.tug.org/mactex/)，然后点击"Download"按钮，下载MacTeX。这可能需要一些时间，因为这个文件比较大。
