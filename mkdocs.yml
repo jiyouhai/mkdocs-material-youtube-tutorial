@@ -49,6 +49,8 @@ extra:
       link: https://github.com/jiyouhai
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/profile.php?id=100082717939442&mibextid=9R9pXO
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/zhouyixiaoxiao
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
