@@ -3,6 +3,16 @@
 
 # 各专业专业课程
 
+## 实习
+
+### 计算机实习/Python实习
+
+会有一些实习，比如说[计算机实习](https://github.com/jiyouhai/TJU_Draw)我放在了GitHub里，然后大数据专业是python实习，要写一个爬虫软件，但是这个爬虫很容易，就ChatGPT一下或者参考本站[贡献者说](https://jiyouhai.github.io/tju-math-guide/forcontributors/#pdf_5)
+
+### 计算实习
+
+是用Matlab写一个程序，老师不点名，要求新学期群里会发，实习一周。我写的是求解线性方程组的迭代法。Matlab[在线使用](https://matlab.mathworks.com)就好，注册之后能在线免费使用，网站里有详细的说明。
+
 ## 金融数学
 ### 大三上
 专业必修：测度论，多元统计分析，泛函分析
