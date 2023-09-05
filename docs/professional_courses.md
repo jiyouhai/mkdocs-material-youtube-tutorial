@@ -232,7 +232,7 @@ Latex的教材，也是一个[Latex使用说明](https://cdn.jsdelivr.net/gh/jiy
 
 所用的是自编讲义：
 
-[拓扑学作业及答案](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/拓扑学作业及答案.jpg)
+[拓扑学作业及答案](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/拓扑学作业及答案.pdf)
 
 ### 数理统计
 
