@@ -33,7 +33,7 @@
 
 ## 魔法环境，ChatGPT与MSE
 
-我觉得对大家很重要的技能是魔法环境，ChatGPT和MSE（[mathstackexchange.com](https://mathstackexchange.com)）。一般来说，后面两个都依赖魔法环境。
+我觉得对大家很重要的技能是魔法环境，ChatGPT和MSE（[mathstackexchange.com](https://math.stackexchange.com)）。一般来说，后面两个都依赖魔法环境。
 
 ### 魔法环境
 魔法环境的话由于普遍要收费，应该很多人都拥有了。如果没有的人多我们也可以一起开通一个企业版，800元可以10个人同时在线。对咱十三人甚至更多也够用了。
