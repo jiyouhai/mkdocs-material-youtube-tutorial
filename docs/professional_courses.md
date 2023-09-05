@@ -151,7 +151,7 @@ Latex的教材，也是一个[Latex使用说明](https://cdn.jsdelivr.net/gh/jiy
 
 甘在会老师答案：[丁同仁常微分方程答案](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/常微分方程教程丁同仁第二版答案.pdf)
 
-[常微分方程作业答案](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/常微分方程习题2.pdf)，[常微分方程知识点总结](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notesPDFs/常微分方程知识点总结.pdf)（这两个是21级写的作业答案和知识点总结）
+[常微分方程作业答案](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/常微分方程习题2.pdf)，[常微分方程知识点总结](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/常微分方程知识点总结.pdf)（这两个是21级写的作业答案和知识点总结）
 
 这门课自学的话我推荐的网课是[四川大学的常微分方程](https://www.bilibili.com/video/BV1bx411s7pb/?spm_id_from=333.337.search-card.all.clickvd_source=9cda3f9bebeb9e6d0e8ac9cf8393400c)
 
