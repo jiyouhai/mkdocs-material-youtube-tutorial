@@ -165,8 +165,13 @@ Latex的教材，也是一个[Latex使用说明](https://cdn.jsdelivr.net/gh/jiy
  [伍胜健-数学分析-第三册](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/伍胜健-数学分析-第三册.pdf) [伍胜健-数学分析-第三册答案](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/伍胜健3答案_compressed.pdf) 
  周泽华的参见数学分析A那里
 
+[吴奕飞数学分析C期中试卷](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/数分C期中.JPG)
+
 ### 抽象代数
-这门课很难，孙院的教材写得很抽象，略去了很多步骤。21级是孙笑涛授课，他讲得很抽象，同样需要自学偏多。下面这个PDF是我用手机扫描的，模论和最后一节的习题没扫。模论没讲，最后那几页习题见答案里，答案里有最后的习题内容。
+这门课很难，许多部分需要自学。下面这个PDF是我用手机扫描的，模论和最后一节的习题没扫。模论没讲，最后那几页习题见答案里，答案里有最后的习题内容。
+
+数学强国公众号或者bilibili上好像有以前的录课。
+
 [孙笑涛抽象代数](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/孙笑涛抽象代数.pdf)
 [抽象代数21级作业答案](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/抽象代数作业答案.pdf)
 [2020级抽代期末考试题及答案](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/2020级抽代期末考试题及答案.pdf)
