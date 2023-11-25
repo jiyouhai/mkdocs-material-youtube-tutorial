@@ -145,7 +145,7 @@ Latex的教材，也是一个[Latex使用说明](https://cdn.jsdelivr.net/gh/jiy
 
 [汪更生常微分方程作业](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/汪更生常微分方程作业.pdf)（有一次缺少了但是答案里有）
 
-[汪更生常微分方程作业答案1](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/常微分方程作业答案1.pdf) [汪更生常微分方程作业答案2](https://cdn.jsdelivr.net/gh/jiyouhaimy-math-notes/PDFs/常微分方程作业答案2.pdf)（缺少了第二次）
+[汪更生常微分方程作业答案1](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/常微分方程作业答案1.pdf) [汪更生常微分方程作业答案2](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/常微分方程作业答案2.pdf)（缺少了第二次）
 
 甘在会老师教材：[丁同仁常微分方程](https://cdn.jsdelivr.net/gh/jiyouhai/my-math-notes/PDFs/常微分方程教程%20(丁同仁%20李承治)%20(z-lib.org).pdf)
 
